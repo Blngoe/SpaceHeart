@@ -1,7 +1,5 @@
 minnum = None
 maxnum = None
-
-
 while True:
     sval = input('Enter a number:')
     if sval == 'done':
