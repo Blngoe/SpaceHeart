@@ -1,6 +1,11 @@
 # Python Object Oriented Programming by Joe Marini course example
 # Using Abstract Base Classes to implement interfaces
 
+'''
+    NOTES
+     
+
+'''
 from abc import ABC, abstractmethod
 
 
