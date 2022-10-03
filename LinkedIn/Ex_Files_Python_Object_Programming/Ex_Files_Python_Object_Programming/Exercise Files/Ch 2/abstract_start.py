@@ -1,7 +1,7 @@
 # Python Object Oriented Programming by Joe Marini course example
 # Using Abstract Base Classes to enforce class constraints
-'''NOTES
-
+'''
+NOTES
 
 '''
 
