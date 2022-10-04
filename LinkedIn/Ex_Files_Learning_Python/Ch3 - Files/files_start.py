@@ -7,7 +7,7 @@
 def main():  
     # Open a file for writing and create it if it doesn't exist
     myfile = open("textfile.txt", "w+")
-    
+      
     # Open the file for appending text to the end
 
 
@@ -16,7 +16,7 @@ def main():
         myfile.write("This is some text\n")
     
     # close the file when done 
-    # myfile.close
+    myfile.close
     
     # Open the file back up and read the contents
 
