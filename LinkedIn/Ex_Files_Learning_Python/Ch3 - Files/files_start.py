@@ -16,7 +16,7 @@ def main():
         myfile.write("This is some text\n")
     
     # close the file when done 
-    myfile.close
+    # myfile.close
     
     # Open the file back up and read the contents
 
