@@ -1,0 +1,41 @@
+.post-date{
+    background:	rgb(26, 134, 53);
+    padding:4px;
+    margin:3px 0;
+    display: block;
+}
+
+.post-picture-tumb{
+    width: 100%;
+}
+
+.post-picture-view{
+    width:20%;
+    height: 25%;
+}   
+
+.well-background{
+    height: 150px;
+    width: 50%;
+    color: black;
+    background-color: rgb(86, 105, 105);
+}
+
+.pagination-links{
+    margin: 30px 0;
+}
+.pagination-links strong{
+    padding: 8px 13px;
+    margin: 5px;
+    background: rgb(86, 105, 105);
+    border:1px orangered solid;
+}
+a.pagination-link{
+    padding: 8px 13px;
+    margin: 5px;
+    background: rgb(86, 105, 105);
+    border:1px orangered solid;
+}
+.cat-detele{
+    display: inline;
+}
