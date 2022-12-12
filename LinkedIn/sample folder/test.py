@@ -1,4 +1,5 @@
-def someFunc(func):
-    print(func(10) + 2)
-
-someFunc(lambda x: x * 3)
+def convert(minutes):
+    m = input()
+    
+    s = m * 60
+    print(s)
