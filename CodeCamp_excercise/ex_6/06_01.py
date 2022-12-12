@@ -17,5 +17,5 @@ print(stpText)
 # print(nmbr, "sahsa")
 # strpText = text.rstrip()
 # print (splText)
-# print(strpText)
+# print(strpText)123
 
