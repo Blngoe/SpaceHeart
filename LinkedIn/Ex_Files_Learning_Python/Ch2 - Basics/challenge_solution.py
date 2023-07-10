@@ -27,3 +27,4 @@ while (run):
             newstr += x
 
     print("Palindrome test:", is_palindrome(newstr))
+    #boleng push and pull
